@@ -29,13 +29,12 @@ It is expected to change as requirements are refined.
 ---
 ## ✨ Additional Features
 - [ ] **F1: Multiple Semesters** As a user, I should be able to create schedules for different semesters and easily move back and forth between them.
-
 - [ ] **F2: User ratings** As a user, I should be able to see what others think about the class.
-	- [ ] **F1-1** I should be able to rate a class that I took with a particular professor, knowing that some classes are taught by many professors
-	- [ ] **F1-2** Rating a professor should be easy - I should be able to say a class is easy, average, or hard, and I should be able to rate a class on quality, from bad, to average, to good.
+	- [ ] **F2-1** I should be able to rate a class that I took with a particular professor, knowing that some classes are taught by many professors
+	- [ ] **F2-2** Rating a professor should be easy - I should be able to say a class is easy, average, or hard, and I should be able to rate a class on quality, from bad, to average, to good.
 - [ ] **F3: Degree progress** As a user, I should be able to see which classes I have remaining for my major
 	- NOTE: This is something that the user would probably have to enter themselves, unless we figured out a relatively simple script that could scrape degree requirements from the status sheet PDFs
-	- [ ] **F2-1** As a user, I want to be able to see my progress on my minor as well, with credits taken and remaining, and eligible classes
+	- [ ] **F3-1** As a user, I want to be able to see my progress on my minor as well, with credits taken and remaining, and eligible classes
 	- NOTE: This would probably be accomplished through some combination of nested AND and OR statements for classes, and we'd want a way to make this clean and simple but still powerful.
 
 ---
