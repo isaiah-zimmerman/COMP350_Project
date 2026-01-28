@@ -5,7 +5,6 @@ This document lists the requirements for the project.
 It is expected to change as requirements are refined.
 
 ---
-
 ## 🚀 MVP Requirements
 
 - [ ] **R1: Schedule add** A user should be able to add a course to a candidate schedule.
