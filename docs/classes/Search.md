@@ -1,4 +1,4 @@
-\- `userInput :string`
+\- `userInput :String`
 \- `resultIDs :ArrayList<Course>`
 
 ---
