@@ -1,3 +1,4 @@
+\- `id :int`
 \- `name :String`
 
 ---
