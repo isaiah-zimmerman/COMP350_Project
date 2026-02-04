@@ -7,7 +7,7 @@ It is expected to change as requirements are refined.
 ---
 ## 🚀 MVP Requirements
 
-- [ ] **R1: Schedule add** -- A user should be able to add a course to a candidate schedule.
+- [ ] **R1: Schedule add** A user should be able to add a course to a candidate schedule.
     - [ ] **R1-1** As a user, I don't want to accidentally add a course that conflicts with my current classes. I should be prevented from doing this.
     - [ ] **R1-2** As a user, I should be able to add classes that put me over 18 credits for a single semester, but I should receive a warning message when I add the class that pushes me over 18 credits.
 - [ ] **R2: Schedule removal** As a user, I should be able to remove courses from my candidate schedule from the search view or from the calendar view
@@ -24,7 +24,7 @@ It is expected to change as requirements are refined.
     - [ ] **R4-1** As a user, I want to see some insights, like how many total credits I'm taking
     - [ ] **R4-2** As a user, I should be able to view this calendar in a weekly format that clearly displays when classes are back-to-back and when there are gaps in-between.
 - [ ] **R5: Data persistence** As a user, my schedule should be available to me, even if I exit the web page. It should save my schedule.
-- [ ] **R5: UI** -- A user should not have to use a clunky interface such as a console to accomplish tasks.  There should be an intuitive GUI.
+- [ ] **R6: UI** A user should not have to use a clunky interface such as a console to accomplish tasks.  There should be an intuitive GUI.
 
 ---
 ## ✨ Additional Features
