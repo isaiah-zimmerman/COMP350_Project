@@ -19,6 +19,12 @@ test {
     useJUnitPlatform()
 }
 
+jar {
+    manifest {
+        attributes "Main-Class":"edu.gcc.comp350.Driver"
+    }
+}
+
 java {
     toolchain {
         languageVersion = JavaLanguageVersion.of(21)
