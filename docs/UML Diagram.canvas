@@ -9,7 +9,6 @@
 		{"id":"4a573e712c5f9fc9","type":"text","text":"0...*","x":-45,"y":-490,"width":90,"height":50},
 		{"id":"6ba1add68fff72c2","type":"file","file":"docs/classes/class Rating.md","x":-170,"y":-830,"width":340,"height":340},
 		{"id":"e03d7e3843f2ca97","type":"text","text":"0...*","x":-260,"y":-685,"width":90,"height":50},
-		{"id":"f1c64cb8ab506f04","type":"file","file":"docs/classes/class Professor.md","x":-765,"y":-805,"width":340,"height":340},
 		{"id":"6e34e9ea826b91c8","type":"text","text":"1","x":-425,"y":-660,"width":50,"height":50},
 		{"id":"872bb74642325a9b","type":"file","file":"docs/classes/class Search.md","x":400,"y":350,"width":340,"height":340},
 		{"id":"1b5c0db9d57e19ef","type":"text","text":"0...*","x":523,"y":300,"width":95,"height":50},
