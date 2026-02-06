@@ -1,5 +1,5 @@
 \- `classes :ArrayList<Section>`
-\- `Owner :User`
+\- `owner :User`
 
 
 -------------------------
