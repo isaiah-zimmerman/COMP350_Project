@@ -6,5 +6,5 @@
 ---------------------------
 `departmentFilter implements Filter`
 `creditFilter implements Filter`
-`professorFitler implements Filter`
+`professorFilter implements Filter`
 `...`
