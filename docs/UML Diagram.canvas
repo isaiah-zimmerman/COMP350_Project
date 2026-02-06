@@ -1,12 +1,19 @@
 {
 	"nodes":[
-		{"id":"5eb5c2e564eabab9","type":"file","file":"docs/classes/class Course.md","x":-480,"y":-280,"width":300,"height":340},
-		{"id":"f1c64cb8ab506f04","type":"file","file":"docs/classes/class Professor.md","x":-480,"y":140,"width":300,"height":340},
-		{"id":"5bd9c9830f17911b","type":"file","file":"docs/classes/interface Filter.md","x":-120,"y":-280,"width":340,"height":340},
-		{"id":"872bb74642325a9b","type":"file","file":"docs/classes/class Search.md","x":-120,"y":140,"width":340,"height":340},
-		{"id":"745a25e4a1a7a2c4","type":"file","file":"docs/classes/class Section.md","x":260,"y":-280,"width":320,"height":340},
-		{"id":"6ba1add68fff72c2","type":"file","file":"docs/classes/class Rating.md","x":260,"y":140,"width":320,"height":340},
-		{"id":"9df5addc023dfb93","type":"file","file":"docs/classes/class Schedule.md","x":620,"y":-280,"width":300,"height":340}
+		{"id":"5eb5c2e564eabab9","type":"file","file":"docs/classes/class Course.md","x":-120,"y":-280,"width":340,"height":340},
+		{"id":"745a25e4a1a7a2c4","type":"file","file":"docs/classes/class Section.md","x":400,"y":-280,"width":340,"height":340},
+		{"id":"9df5addc023dfb93","type":"file","file":"docs/classes/class Schedule.md","x":920,"y":-280,"width":340,"height":340},
+		{"id":"5bd9c9830f17911b","type":"file","file":"docs/classes/interface Filter.md","x":-640,"y":-280,"width":340,"height":340},
+		{"id":"872bb74642325a9b","type":"file","file":"docs/classes/class Search.md","x":-120,"y":240,"width":340,"height":340},
+		{"id":"6ba1add68fff72c2","type":"file","file":"docs/classes/class Rating.md","x":400,"y":240,"width":340,"height":340},
+		{"id":"f1c64cb8ab506f04","type":"file","file":"docs/classes/class Professor.md","x":-640,"y":240,"width":340,"height":340},
+		{"id":"119490484a7ab83b","type":"text","text":"1","x":220,"y":-135,"width":50,"height":50},
+		{"id":"1b5c0db9d57e19ef","type":"text","text":"","x":25,"y":190,"width":50,"height":50},
+		{"id":"38935fb35d9f870b","type":"text","text":"","x":25,"y":60,"width":50,"height":50},
+		{"id":"d97bbd8d5ebd078c","type":"text","text":"","x":350,"y":-135,"width":50,"height":50},
+		{"id":"c0843f544297565f","type":"file","file":"docs/classes/class User.md","x":-1140,"y":240,"width":340,"height":340}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c1d24e4b72aa69b9","fromNode":"1b5c0db9d57e19ef","fromSide":"top","toNode":"38935fb35d9f870b","toSide":"bottom"}
+	]
 }

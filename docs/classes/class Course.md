@@ -3,3 +3,7 @@
 \- `description :String`
 \- `credits: int`
 \- `department: String`
+
+-------------------------------
+
+\+ `getFullName(): String`

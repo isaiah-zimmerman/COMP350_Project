@@ -2,6 +2,8 @@
 \- `time :Array<Tuple<char, str, str>>`
 \- `faculty :ArrayList<Professor>`
 \- `dateRange: Tuple<str,str>`
+
 ---
 
+\+ `new Section() :Section`
 \+ 
