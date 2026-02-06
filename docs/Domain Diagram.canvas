@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"5eb5c2e564eabab9","x":-300,"y":-280,"width":300,"height":340,"type":"file","file":"docs/classes/class Course.md"}
+		{"id":"5eb5c2e564eabab9","type":"file","file":"docs/classes/class Course.md","x":-480,"y":-280,"width":300,"height":340},
+		{"id":"f1c64cb8ab506f04","type":"file","file":"docs/classes/class Professor.md","x":-480,"y":140,"width":300,"height":340}
 	],
 	"edges":[]
 }
