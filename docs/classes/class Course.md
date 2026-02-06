@@ -4,6 +4,6 @@
 \- `credits: int`
 \- `department: String`
 
--------------------------------
+---
 
 \+ `getFullName(): String`
