@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"d378e5926a1392aa","x":400,"y":-780,"width":340,"height":340,"type":"file","file":"class Semester.md"},
 		{"id":"5eb5c2e564eabab9","type":"file","file":"docs/classes/class Course.md","x":-120,"y":-280,"width":340,"height":340},
 		{"id":"745a25e4a1a7a2c4","type":"file","file":"docs/classes/class Section.md","x":400,"y":-280,"width":340,"height":340},
 		{"id":"9df5addc023dfb93","type":"file","file":"docs/classes/class Schedule.md","x":920,"y":-280,"width":340,"height":340},
@@ -11,7 +12,7 @@
 		{"id":"1b5c0db9d57e19ef","type":"text","text":"","x":25,"y":190,"width":50,"height":50},
 		{"id":"38935fb35d9f870b","type":"text","text":"","x":25,"y":60,"width":50,"height":50},
 		{"id":"d97bbd8d5ebd078c","type":"text","text":"","x":350,"y":-135,"width":50,"height":50},
-		{"id":"c0843f544297565f","type":"file","file":"docs/classes/class User.md","x":-1140,"y":240,"width":340,"height":340}
+		{"id":"c0843f544297565f","type":"file","file":"docs/classes/class User.md","x":920,"y":-780,"width":340,"height":340}
 	],
 	"edges":[
 		{"id":"c1d24e4b72aa69b9","fromNode":"1b5c0db9d57e19ef","fromSide":"top","toNode":"38935fb35d9f870b","toSide":"bottom"}
