@@ -30,7 +30,7 @@
 		{"id":"ef24fbc417484d61","type":"file","file":"docs/classes/class Timeslot.md","x":1315,"y":-665,"width":290,"height":300},
 		{"id":"4cba5e59c1c3d5d5","type":"text","text":"1","x":1265,"y":-465,"width":50,"height":50},
 		{"id":"dbfc3be3bc43a1f5","type":"text","text":"1","x":740,"y":-210,"width":50,"height":50},
-		{"id":"785a7bcc68473df7","x":-825,"y":-265,"width":400,"height":400,"type":"file","file":"docs/classes/class Professor.md"},
+		{"id":"785a7bcc68473df7","type":"file","file":"docs/classes/class Professor.md","x":-825,"y":-265,"width":400,"height":400},
 		{"id":"6e34e9ea826b91c8","type":"text","text":"1","x":-425,"y":-110,"width":50,"height":50},
 		{"id":"5a56b42c34a1505e","type":"text","text":"1...*","x":-670,"y":135,"width":90,"height":50},
 		{"id":"5badfaef9573c84f","type":"text","text":"0...*","x":320,"y":10,"width":80,"height":50}
@@ -47,6 +47,6 @@
 		{"id":"a50339485486aafd","fromNode":"cd9e26bcbd452587","fromSide":"left","toNode":"ca2aad638d4fce89","toSide":"right","toEnd":"none","label":"filtered by"},
 		{"id":"60700e6178aa772a","fromNode":"6e6975b4e5ca5836","fromSide":"right","toNode":"961ee7ffc5069a64","toSide":"left","toEnd":"none","label":"owned by"},
 		{"id":"a07105569d332725","fromNode":"dbfc3be3bc43a1f5","fromSide":"right","toNode":"4cba5e59c1c3d5d5","toSide":"left","toEnd":"none","label":"has"},
-		{"id":"d8f1d787ff644143","fromNode":"5a56b42c34a1505e","fromSide":"bottom","toNode":"5badfaef9573c84f","toSide":"left","toEnd":"none"}
+		{"id":"d8f1d787ff644143","fromNode":"5a56b42c34a1505e","fromSide":"bottom","toNode":"5badfaef9573c84f","toSide":"left","toEnd":"none","label":"teaches"}
 	]
 }
