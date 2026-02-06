@@ -1,6 +1,8 @@
 \- `userInput :String`
-\- `results :ArrayList<Course>`
+\- `initialResults :ArrayList<Course>`
+\- `filters :ArrayList<Filter>`
 
 ---
 
-\+ `filter(Array<Filter>) :void`
+\+ `addFilter(Filter) :void`
+\+ `evaluateSearch() :ArrayList<Course>`
