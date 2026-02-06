@@ -10,5 +10,4 @@ public class Course {
     public String getFullName(){
         return "";
     }
-    
 }
