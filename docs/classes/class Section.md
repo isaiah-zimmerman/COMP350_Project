@@ -5,6 +5,3 @@
 \- `dateRange: Tuple<str,str>`
 
 ---
-
-\+ `new Section() :Section`
-\+ 
