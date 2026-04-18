@@ -2,7 +2,8 @@
 \- `owner :User`
 
 
--------------------------
+---
+
 \+ `addClass(Section) :boolean`
 \+ `removeClass(Section) :void`
 \+ `hasConflict(Section) :boolean`
